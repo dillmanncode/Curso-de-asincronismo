@@ -1,0 +1,24 @@
+{
+  "name": "cursoasync",
+  "version": "1.0.0",
+  "description": "Curso de asincronismo en Platzi.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dillmanncode/Curso-de-asincronismo.git"
+  },
+  "keywords": [
+    "javascript",
+    "async",
+    "platzi"
+  ],
+  "author": "enzo dillmann <dillmanncode1999@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dillmanncode/Curso-de-asincronismo/issues"
+  },
+  "homepage": "https://github.com/dillmanncode/Curso-de-asincronismo#readme"
+}
