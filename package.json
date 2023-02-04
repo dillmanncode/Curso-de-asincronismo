@@ -4,6 +4,7 @@
   "description": "Curso de asincronismo en Platzi.com",
   "main": "index.js",
   "scripts": {
+    "callback": "node src/callback/challenge.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/dillmanncode/Curso-de-asincronismo/issues"
   },
-  "homepage": "https://github.com/dillmanncode/Curso-de-asincronismo#readme"
+  "homepage": "https://github.com/dillmanncode/Curso-de-asincronismo#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
