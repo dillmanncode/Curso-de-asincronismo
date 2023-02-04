@@ -23,6 +23,8 @@
   },
   "homepage": "https://github.com/dillmanncode/Curso-de-asincronismo#readme",
   "dependencies": {
+    "node-fetch": "^3.3.0",
     "xmlhttprequest": "^1.8.0"
-  }
+  },
+  "type":"module"
 }
