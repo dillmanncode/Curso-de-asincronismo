@@ -25,3 +25,26 @@ const data = {
 postData(`${API}/products`, data)
   .then(response => response.json())
   .then(data => console.log(data));
+
+// UPDATE
+// function putData(urlApi, updateData) {
+//     const response = fetch(urlApi, {
+//         method: "PUT",
+//         mode: "cors",
+//         credentials: "same-origin",
+//         headers: {
+//             "Content-Type": "application/json"
+//         },
+//         body: JSON.stringify(updateData)
+//     });
+//     return response;
+// }
+
+// const updateData = {
+//     "title": "228",
+//     "price": 228
+// }
+
+// putData(`${API}/products/228`, updateData)
+//     .then(response => response.json())
+//     .then(data => console.log(data))
